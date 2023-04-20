@@ -2,6 +2,7 @@ baseURL: https://www.leowuqunqun.eu.org
 languageCode: zh-cn # en-us
 title: 学无先后达者为师
 theme: PaperMod # 主题名字，和themes文件夹下的一致
+timeZone: 'Asia/Shanghai'
 
 enableInlineShortcodes: true #允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
@@ -26,19 +27,18 @@ permalinks: #浏览器链接显示方式
   post: "/:title/"
   # post: "/:year/:month/:day/:title/"
 
-defaultContentLanguage: en # 最顶部首先展示的语言页面
+defaultContentLanguage: zh # 最顶部首先展示的语言页面
 defaultContentLanguageInSubdir: true
 
 languages:
-    en:
-      languageName: "English"
+    zh:
+      languageName: "中文"
       # contentDir: content/english
       weight: 1
       profileMode:
         enabled: true
         title: (〃'▽'〃)
-        subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>👏🏼欢迎光临素履(Sulv)的博客<br/>👇联系方式"
-        imageUrl: "img/Q.gif" #图片放在static/img/Q.gif
+        subtitle: "🧨学而时习之，不亦说乎？有朋自远方来，不亦乐乎？<br/>"
         imageTitle: 
         imageWidth: 150
         imageHeight: 150
@@ -75,10 +75,6 @@ languages:
             name: 🙋🏻‍♂️关于
             url: about
             weight: 50
-          - identifier: links
-            name: 🤝友链
-            url: links
-            weight: 60
 
 outputs:
     home:
@@ -89,7 +85,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
-    author: Sulv
+    author: 爱码仕
     # author: ["Me", "You"] # multiple authors
     defaultTheme: auto  # defaultTheme: light or  dark 
     disableThemeToggle: false

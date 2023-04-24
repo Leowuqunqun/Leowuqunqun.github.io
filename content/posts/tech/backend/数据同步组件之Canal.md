@@ -2,6 +2,7 @@
 title: "数据同步组件之Canal"
 date: 2020-09-18T18:23:35+08:00
 draft: false
+tags: ["数据同步","异构数据","Canal"]
 layout: posts
 ---
 

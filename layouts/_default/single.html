@@ -36,6 +36,9 @@
   {{- end }}
 
   <footer class="post-footer">
+    {{- if and site.Params.ShowSeriesInPost (ne .Params.showSeries false ) }}
+    {{- partial "series-posts.html" . -}}
+    {{- end }}
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
       {{- range ($.GetTerms $tags) }}

@@ -91,7 +91,7 @@ params:
     disableThemeToggle: false
     DateFormat: "2006-01-02"
     ShowShareButtons: true
-    ShowReadingTime: true
+    ShowReadingTime: false  #阅读时长
     # disableSpecialistPost: true
     displayFullLangName: true
     ShowPostNavLinks: true

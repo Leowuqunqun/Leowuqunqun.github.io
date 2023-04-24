@@ -1,0 +1,24 @@
+{{- if .Params.series }}
+<div class="x-post-series">
+{{- $series := .Site.Taxonomies.series}}
+{{- range .Params.series}}
+{{- $seriesName := . }}
+    
+{{- range $name, $value := $series }}
+    {{- if or (eq $name $seriesName) (eq ($name|urlize) ($seriesName|urlize) ) }}
+    <details open>
+        <summary>{{ $seriesName }}</summary>
+        <ol>
+            {{- range $value.Pages.ByDate }}
+            <li><a href="{{.Permalink}}">{{.LinkTitle}}</a>
+                <sub>{{- .Date.Format .Site.Params.DateFormat -}}</sub>
+            </li>
+            {{- end }}
+        </ol>
+    </details>
+    {{- end }}
+{{- end }} {{/* end range site series */}}
+    
+{{- end }} {{/* end range page series */}}
+</div>
+{{- end }} {{/* end .Params.series */}}

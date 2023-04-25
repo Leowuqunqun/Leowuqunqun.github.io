@@ -83,6 +83,7 @@ outputs:
         - JSON
 
 params:
+    ShowAllPagesInArchive: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "这是一个纯粹的博客......"
     author: 爱码仕
@@ -91,7 +92,7 @@ params:
     disableThemeToggle: false
     DateFormat: "2006-01-02"
     ShowShareButtons: true
-    ShowReadingTime: false  #阅读时长
+    ShowReadingTime: false #阅读时长
     # disableSpecialistPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
@@ -158,9 +159,9 @@ params:
         shouldSort: true
         location: 0
         distance: 1000
-        threshold: 1
+        threshold: 0.4
         minMatchCharLength: 0
-        keys: ["title", "permalink", "summary"]
+        keys: ["title", "permalink", "summary","content"]
 
     twikoo:
       version: 1.4.11

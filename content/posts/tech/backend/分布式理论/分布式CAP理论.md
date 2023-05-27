@@ -3,6 +3,9 @@ title: "分布式CAP理论"
 date: 2019-09-16
 draft: false
 layout: posts
+tags: ["CAP理论"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1651915879628-0ed7e0ee-7d8d-49f9-b37c-563a29ea35df.png"
 ---
 
 ## CAP理论

@@ -4,6 +4,8 @@ date: 2018-03-11
 draft: false
 layout: posts
 tags: ["Redis","持久化"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271102705.png"
 ---
 
 ## AOF日志

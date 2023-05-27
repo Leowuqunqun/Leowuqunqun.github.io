@@ -4,6 +4,8 @@ date: 2018-03-08
 draft: false
 layout: posts
 tags: ["Redis","淘汰策略"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271101587.png"
 ---
 
 # 为什么要做内存淘汰？

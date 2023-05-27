@@ -3,7 +3,9 @@ title: "Redis实战-基础篇"
 date: 2018-03-01
 draft: false
 layout: posts
-tags: ["Redis"]
+tags: ["Redis","缓存雪崩","缓存击穿"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271104282.png"
 ---
 
 ## 基本介绍

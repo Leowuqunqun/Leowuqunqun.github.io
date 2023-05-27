@@ -4,6 +4,8 @@ date: 2018-03-21
 draft: false
 layout: posts
 tags: ["Redis","数据同步"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271106218.png"
 ---
 
 Redis 提供了主从库模式，以保证数据副本的一致，主从库之间采用的是读写分离的方式。

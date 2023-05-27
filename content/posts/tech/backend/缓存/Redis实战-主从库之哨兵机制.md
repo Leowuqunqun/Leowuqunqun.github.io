@@ -1,9 +1,11 @@
 ---
 title: "Redis实战-主从库之哨兵机制"
-date: 2018-03-01
+date: 2018-03-15
 draft: false
 layout: posts
 tags: ["Redis","哨兵"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271105955.png"
 ---
 
 ## 前言

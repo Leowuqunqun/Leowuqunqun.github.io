@@ -1,9 +1,11 @@
 ---
 title: "操作系统之CPU多级缓存"
-date: 2014-03-01
+date: 2014-03-05
 draft: false
 layout: posts
 tags: ["操作系统"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271343980.png"
 ---
 
 # 什么是CPU多级缓存？

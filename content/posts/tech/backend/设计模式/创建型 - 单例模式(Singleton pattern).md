@@ -4,6 +4,8 @@ date: 2017-08-29
 draft: false
 layout: posts
 tags: ["设计模式"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271116158.png"
 ---
 
 

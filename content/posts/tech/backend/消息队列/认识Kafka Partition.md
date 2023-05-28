@@ -3,6 +3,9 @@ title: "认识Kafka Partition"
 date: 2020-07-29
 draft: false
 layout: posts
+tags: ["消息队列","Kafka"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1650464742613-f5ea9e6f-f6af-4c19-804d-b003b91bd30f.png"
 ---
 
 # 为什么要有Partition？

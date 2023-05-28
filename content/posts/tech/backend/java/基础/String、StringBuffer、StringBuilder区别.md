@@ -4,6 +4,8 @@ date: 2014-04-28
 draft: false
 layout: posts
 tags: ["Java","StringBuffer","StringBuilder"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271018261.png"
 ---
 
 ### 区别：

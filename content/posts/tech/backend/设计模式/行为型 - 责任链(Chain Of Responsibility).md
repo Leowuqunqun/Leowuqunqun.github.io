@@ -4,6 +4,8 @@ date: 2017-09-20
 draft: false
 layout: posts
 tags: ["设计模式"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271117325.png"
 ---
 ## 概念
 使多个对象都有机会处理请求，从而避免请求的发送者和接收者之间的耦合关系。将这些对象连成一条链，并沿着这条链发送该请求，直到有一个对象处理它为止。

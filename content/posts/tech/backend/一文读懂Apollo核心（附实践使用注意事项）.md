@@ -3,6 +3,9 @@ title: "一文读懂Apollo核心（附实践使用注意事项）"
 date: 2020-06-20
 draft: false
 layout: posts
+tags: ["Apollo","配置中心"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/imageapollo%E6%9E%B6%E6%9E%84.png"
 ---
 
 # 整体架构

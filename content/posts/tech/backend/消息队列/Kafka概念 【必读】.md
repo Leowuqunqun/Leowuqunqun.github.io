@@ -3,6 +3,9 @@ title: "Kafka概念 【必读】"
 date: 2020-07-01
 draft: false
 layout: posts
+tags: ["消息队列","Kafka"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1650299620588-2caad3a0-d894-4b20-968f-b1b87b2a8049.png"
 ---
 
 # Kafka是什么？

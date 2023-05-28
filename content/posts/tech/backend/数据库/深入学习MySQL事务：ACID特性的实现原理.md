@@ -4,6 +4,8 @@ date: 2019-10-20
 draft: false
 layout: posts
 tags: ["数据库","MySQL","事务"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271109496.png"
 ---
 
 # 问题

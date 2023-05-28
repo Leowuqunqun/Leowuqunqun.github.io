@@ -4,6 +4,8 @@ date: 2017-09-03
 draft: false
 layout: posts
 tags: ["Java","Spring","循环依赖"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271019885.png"
 ---
 
 # 什么是循环依赖问题？

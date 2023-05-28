@@ -4,6 +4,8 @@ date: 2019-10-24
 draft: false
 layout: posts
 tags: ["数据库","MySQL"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271112252.png"
 ---
 
 # 图解MySQL基础架构

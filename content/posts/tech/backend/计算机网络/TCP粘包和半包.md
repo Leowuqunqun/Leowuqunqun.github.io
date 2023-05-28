@@ -4,6 +4,8 @@ date: 2014-08-29
 draft: false
 layout: posts
 tags: ["TCP","计算机网络"]
+cover:
+   image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271341768.png"
 ---
 
 # 什么是粘包

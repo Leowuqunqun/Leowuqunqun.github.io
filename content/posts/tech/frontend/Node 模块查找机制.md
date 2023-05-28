@@ -3,6 +3,9 @@ title: "Node模块查找机制"
 date: 2022-09-18T18:23:35+08:00
 draft: false
 layout: posts
+tags: ["node","CommonJS"]
+cover: 
+  image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image485cee19-21b5-415b-b568-4708a4246f47.png"
 ---
 
 

@@ -4,6 +4,8 @@ date: 2016-04-18
 draft: false
 layout: posts
 tags: ["Java","JVM"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305262234444.png"
 ---
 
 # 内存结构

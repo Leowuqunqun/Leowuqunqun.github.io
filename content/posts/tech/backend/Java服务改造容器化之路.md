@@ -3,6 +3,9 @@ title: "Java服务改造容器化之路"
 date: 2019-03-01
 draft: true
 layout: posts
+tags: ["容器化实战"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1650192852582-29fe581f-30b0-4f3c-a67c-5467537d74c8.png"
 ---
 
 > 背景：服务迁移到容器

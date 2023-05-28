@@ -3,6 +3,9 @@ title: "Kafka Rebalance机制"
 date: 2020-08-01
 draft: false
 layout: posts
+tags: ["消息队列","Kafka"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1656395933559-acc05ca8-23da-42d1-a1cd-96ec41a6e24d.png"
 ---
 
 # 什么是Rebalance？

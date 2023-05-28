@@ -4,6 +4,8 @@ date: 2015-10-20
 draft: false
 layout: posts
 tags: ["MongoDB","数据库"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271110693.png"
 ---
 > 信息具备时效性，请在阅读文章的时候对一些缺点优点要保持探索的精神，看一下现在是否支持了这些缺点，或者又强化了哪些优点
 

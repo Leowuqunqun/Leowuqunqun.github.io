@@ -4,6 +4,8 @@ date: 2020-09-18T18:23:35+08:00
 draft: false
 tags: ["数据同步","异构数据","Canal"]
 layout: posts
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image1656900021519-45d311fb-66f8-43a9-8392-3754cfaa0d50.png"
 ---
 
 # 什么是Canal？

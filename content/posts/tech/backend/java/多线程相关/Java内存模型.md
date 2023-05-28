@@ -4,6 +4,8 @@ date: 2016-04-28
 draft: false
 layout: posts
 tags: ["Java","内存模型"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305262229381.jpeg"
 ---
 
 

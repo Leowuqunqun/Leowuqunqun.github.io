@@ -3,6 +3,8 @@ title: "Raft算法"
 date: 2018-12-10
 draft: false
 layout: posts
+tags: ["Raft算法"]
+
 ---
 
 Raft 算法本质：通过一切以领导者为准的方式，实现一系列值的共识和各节点日志的一致 服务节点状态： 

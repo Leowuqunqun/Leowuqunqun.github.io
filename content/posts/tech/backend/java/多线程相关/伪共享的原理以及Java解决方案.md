@@ -4,6 +4,8 @@ date: 2016-04-25
 draft: false
 layout: posts
 tags: ["Java","伪共享"]
+cover: 
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305262221226.png"
 ---
 
 
@@ -11,7 +13,7 @@ tags: ["Java","伪共享"]
 ## 前言阅读
 > 伪共享的诞生基于CPU多级缓存，建议阅读前言在看本文
 
-[CPU多级缓存](https://www.yuque.com/paopao-zpp3r/luswal/zk9eir/edit?toc_node_uuid=2SR9Bpdyr4xEU_lX)
+[CPU多级缓存](../../../操作系统/操作系统之cpu多级缓存/)
 
 ## 伪共享的定义
 

@@ -4,6 +4,8 @@ date: 2019-05-22
 draft: false
 layout: posts
 tags: ["HTTP","HTTPS","计算机网络"]
+cover:
+    image: "https://raw.githubusercontent.com/Leowuqunqun/img/master/image202305271338211.png"
 ---
 
 1、https协议需要到ca申请证书，一般免费证书较少，因而需要一定费用。
